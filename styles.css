@@ -12,3 +12,13 @@ li {
 p {
   font-size: 1.2em;
 }
+.img-responsive {
+  margin: 0 auto;
+}
+ol {
+    list-style-position: inside;
+}
+#epicodus {
+    text-shadow: .7px .7px .7px #3a50a2;
+    color: #585351;
+}
