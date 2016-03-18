@@ -9,7 +9,7 @@
 li {
   font-size: 1.1em;
 }
-p {
+.large-para-text p {
   font-size: 1.2em;
 }
 .img-responsive {
@@ -21,4 +21,10 @@ ol {
 #epicodus {
     text-shadow: .7px .7px .7px #3a50a2;
     color: #585351;
+}
+.float-left {
+  float: left;
+}
+.glyphicon {
+  padding-right: 10px;
 }
