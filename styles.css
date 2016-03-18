@@ -1,7 +1,14 @@
 .center-stuff {
-    text-align: center;
+  text-align: center;
 }
 
 .heading-margin {
   margin-top: 0;
+  margin-bottom: 0;
+}
+li {
+  font-size: 1.1em;
+}
+p {
+  font-size: 1.2em;
 }
