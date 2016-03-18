@@ -7,10 +7,10 @@
   margin-bottom: 0;
 }
 li {
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 .large-para-text p {
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 .img-responsive {
   margin: 0 auto;
@@ -27,4 +27,7 @@ ol {
 }
 .glyphicon {
   padding-right: 10px;
+}
+.container {
+  font-family: 'Poiret One', cursive;
 }
