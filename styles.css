@@ -31,3 +31,7 @@ ol {
 .container {
   font-family: 'Poiret One', cursive;
 }
+
+#about-margin-bottom {
+  margin-bottom: 75px;
+}
