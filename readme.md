@@ -10,11 +10,11 @@ _This a static webpage, a snapshot of sorts, assigned as an end-of-week project 
 
 ## Setup/Installation Requirements
 
-* _Clone through Terminal using git clone https://github.com/LATAEVIA/lbportfolio.git_
+* _Clone through Terminal using git clone http://lataevia.github.io/PROJECT-Mock-Portfolio.git_
 * _Project Files will be in your Downloads folder_
 * _Open files in any text editor to view source code_
 * _Open index.html in any browser to enjoy_
-* _One could also view this portfolio at http://lataevia.github.io/lbportfolio/_
+* _One could also view this portfolio at http://lataevia.github.io/PROJECT-Mock-Portfolio/_
 
 
 ## Technologies Used
